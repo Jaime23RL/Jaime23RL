@@ -22,11 +22,3 @@
 </div>
 
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jaime23RL/Jaime23RL/output/snake.svg" alt="Snake animation" />
-
-###
